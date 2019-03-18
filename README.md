@@ -1,4 +1,4 @@
-# Performance Bounceback Starter Project
+# Udacity - Performance Bounceback Project
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
